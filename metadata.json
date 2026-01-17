@@ -1,0 +1,7 @@
+{
+  "name": "MiamPlanner Pro",
+  "description": "Un planificateur de repas intelligent avec gestion du garde-manger, génération de recettes assistée par IA, création d'images culinaires et animations vidéo Veo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
